@@ -25,3 +25,13 @@ DB - MySQL<br>
 4. index.php - 회원가입(sign up) - regist.php - 유효성 검사/회원가입 성공 - regist_ok.php - index.php
 5. index.php - 비밀번호 변경(forget password) - changepw.php - 유효성 검사/비밀번호 변경 성공 - changepw_ok.php - index.php
 
+## Preview
+1. login
+<img width="1438" alt="login" src="https://user-images.githubusercontent.com/46413981/150802100-fd22bc9a-c7c0-42cf-bb2c-10468c544917.png">
+2. regist
+<img width="1440" alt="regist" src="https://user-images.githubusercontent.com/46413981/150802117-af6b5c30-f0bc-4d8a-ae4b-b0770b8383e9.png">
+3. change password
+<img width="1440" alt="changepw" src="https://user-images.githubusercontent.com/46413981/150802118-92f7fc6c-8f9e-444b-9e24-78aaeceb1a1a.png">
+4. main
+<img width="1440" alt="main" src="https://user-images.githubusercontent.com/46413981/150802128-c7ae5ca3-f8f6-4adc-9b33-d7982a2318bc.png">
+
