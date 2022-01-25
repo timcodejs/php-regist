@@ -23,8 +23,16 @@
                 } else {
             ?>
                 <p class="login_user_id">🎉🎉🎉 Welcom <span><?=$_SESSION['username']?></span> 🎉🎉🎉</p>
-                <p><img src="./lib/image/image.png" alt="imoticon"></p>
+                <p><img src="./lib/image/image0.png" alt="imoticon" class="main_img"></p>
+                <p class="main_hobby">My E-mail is <strong><?=$_SESSION['useremail']?></strong></p>
+                <p class="main_hobby">My Phone Number is <strong><?=$_SESSION['userphone']?></strong></p>
+                <p class="main_hobby">My Hobby is <strong><?=$_SESSION['userhobby']?></strong></p>
                 <p class="logout_btn"><a href="logout_ok.php">Logout</a></p>
+                <p class="delete_account"><a href="delete.php">Delete Your Account</a></p>
+                <script>
+                    let main_img = document.querySelector('.main_img');
+                    main_img.setAttribute("src", "./lib/image/image"+Math.floor(Math.random() * 6)+".png");
+                </script>
             <?php
                 }
             ?>
