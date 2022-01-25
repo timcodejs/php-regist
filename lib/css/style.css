@@ -87,7 +87,8 @@ h1 {
 }
 
 #login_wrap .regist_btn a,
-.pre_btn a {
+.pre_btn a,
+.delete_account a {
     color: red;
 }
 
@@ -132,4 +133,12 @@ h1 {
     border-radius: 5px;
     color: #fff;
     background: linear-gradient(to left, #f857a6, #ff5858);
+}
+
+.main_img {
+    height: 300px;
+}
+
+.main_hobby {
+    margin: 5px 0;
 }
