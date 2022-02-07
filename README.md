@@ -34,5 +34,4 @@ DB - MySQL<br>
 3. change password
 <img width="1440" alt="changepw" src="https://user-images.githubusercontent.com/46413981/150802118-92f7fc6c-8f9e-444b-9e24-78aaeceb1a1a.png">
 4. main
-<img width="1440" alt="main" src="https://user-images.githubusercontent.com/46413981/150802128-c7ae5ca3-f8f6-4adc-9b33-d7982a2318bc.png">
-
+<img width="1439" alt="main" src="https://user-images.githubusercontent.com/46413981/152718308-567825d5-fce8-4a32-b9e2-32b9c61a22b5.png">
