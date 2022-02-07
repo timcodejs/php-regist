@@ -59,6 +59,29 @@ h1 {
     font-size: 18px;
 }
 
+#regist_wrap #regist_form input#userid {
+    width: 345px;
+}
+
+#regist_wrap #regist_form input#checkIdBtn {
+    position: relative;
+    top: -2px;
+    width: 50px;
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+    box-sizing:content-box;
+    background: linear-gradient(to left, #f857a6, #ff5858);
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+#regist_wrap #regist_form #result {
+    display: none;
+}
+
 #login_wrap .forgetpw {
     text-align: left;
     font-size: 14px;
